@@ -1,0 +1,4 @@
+file baru line pertama 2
+file baru line kedua 2
+file baru line ketiga 2
+file baru line keempat 2
